@@ -1,0 +1,79 @@
+{
+  "language": "English",
+  "slogan": {
+    "title": "Bring warmth back to SocialFi",
+    "subtitle": "Find your eternal winter sun"
+  },
+  "cards": [
+    {
+      "title": "Finance can be warm too",
+      "content": "With our unique social currency design, finance becomes less utilitarian and more heartfelt."
+    },
+    {
+      "title": "Just be yourself",
+      "content": "Your attention is valuable—we open the door to being heard, without wasting it."
+    },
+    {
+      "title": "You deserve to be heard",
+      "content": "You can reach out to anyone you want. Come, talk to the world."
+    },
+    {
+      "title": "Meet a better you",
+      "content": "A unique incentive mechanism that lets your light shine on your future self."
+    }
+  ],
+  "tagline": {
+    "future": "The next Internet",
+    "disruptive": "Disruptive experience across fields",
+    "joy": "Joy everywhere",
+    "infrastructure": "As SocialFi infrastructure",
+    "compatible": "Compatible with most Web3 and Web2 social networks"
+  },
+  "faq": [
+    {
+      "question": "What is Nouso?",
+      "answer": "Nouso is a decentralized social network built on recognition relationships."
+    },
+    {
+      "question": "What is SToken?",
+      "answer": "SToken stands for 'Sublimable Token'—a special currency with restricted transferability, just like invisible 'social currency' in real life."
+    },
+    {
+      "question": "What is recognition?",
+      "answer": "Recognition is a stronger social relationship than following. It means you trust or admire someone, and are willing to support them. Your SToken will be sublimated and distributed to users you recognize."
+    },
+    {
+      "question": "What is sublimation?",
+      "answer": "Sublimation is a forced distribution of SToken, divided as follows:\n- 5%: converted into freely tradable NOUSO\n- 60%: allocated to recognized users\n- 30%: for likes, @mentions, and messages\n- 3%: burned\n- 2%: fee\nUnused interactive SToken is carried over to the next period."
+    },
+    {
+      "question": "How do I get SToken?",
+      "answer": "Anyone can spend NOUSO to send you SToken. When others recognize you, you’ll receive SToken from their sublimation. Likes, messages, and other interactions will also bring you SToken. In the future, you may earn SToken from ads, games, and more. Just be your brilliant self."
+    },
+    {
+      "question": "How do likes work?",
+      "answer": "Liking someone costs SToken. If your interactive SToken balance is insufficient, NOUSO will be used instead. The SToken will be transferred to the recipient's balance."
+    },
+    {
+      "question": "How do @mentions work?",
+      "answer": "Every @mention costs a small amount of NOUSO, which is automatically converted into the recipient's SToken. The system dynamically adjusts the price based on how often the user is mentioned."
+    },
+    {
+      "question": "How does messaging work?",
+      "answer": "Messages require NOUSO. If the recipient reads it, they receive SToken. If they don’t or reject it, your NOUSO is refunded. Users can customize message prices, acceptance rules, or block strangers."
+    },
+    {
+      "question": "Can I message anyone?",
+      "answer": "Nouso’s anti-spam policy helps users avoid noise while remaining open to real connection. If you follow the recipient’s rules, your voice deserves to be heard. You can also use @ to reach out. Nouso encourages sincerity and respects personal boundaries."
+    }
+  ],
+  "subscribe": {
+    "cta": "Subscribe for updates and early access",
+    "placeholder": "Enter your email",
+    "submit": "Subscribe Now",
+    "loading": "Subscribing...",
+    "success": "Successfully subscribed! 🎉",
+    "error": "Subscription failed. Please try again.",
+    "network_error": "Network error. Please try again."
+  }
+}

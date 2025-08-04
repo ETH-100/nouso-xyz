@@ -1,0 +1,113 @@
+@use 'sass:map';
+@use './theme-vars.scss' as *;
+@use 'element-plus/theme-chalk/src/index.scss' as *;
+
+// @import "./custom-vars.scss";
+
+$--daff-normal: 1.5em !default;
+$--bg-success: #4B64F8 !default;
+$--bg-dark: #333333 !default;
+$--bg-dark-second: #3D3C3C !default;
+$--title-mub: #333335 !default;
+$--color-adorn: #e00e5f !default;
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: map.get($text-color, 'primary');
+}
+
+.bg-dark-second {
+  background-color: $--bg-dark-second;
+}
+
+.primary-a {
+  color: 	map.get($text-color, 'primary');
+  &:hover {
+    background-color: map.get($colors, 'primary', 'base') !important;
+    color: #FFF !important;
+  }
+}
+
+.white {
+  color: #FFF;
+}
+
+.center {
+  text-align: center;
+}
+
+.primary {
+  color: map.get($colors, 'primary', 'base') !important;
+}
+
+.border-primary {
+  border: 1px solid map.get($colors, 'primary', 'base') !important;
+}
+
+.bottom-line {
+  border-bottom: 3px solid map.get($colors, 'primary', 'base');
+}
+
+.adorn {
+  color: $--color-adorn;
+}
+
+.bg-adorn {
+  background-color: $--color-adorn !important;
+  color: #FFF !important;
+}
+
+.hover-primary:hover {
+  color: map.get($colors, 'primary', 'base');
+}
+
+.bg-primary,
+.drawer {
+  background-color: map.get($colors, 'primary', 'base') !important;
+  color: #FFF !important;
+}
+
+.bg-grad {
+  background-image: linear-gradient(175deg, map.get($colors, 'primary', 'base') 8%, #B76BF0 81%);
+}
+
+.bg-success {
+  background-color: $--bg-success;
+}
+
+.bg-dark {
+  background-color: $--bg-dark;
+}
+
+.text-primary {
+  color: 	map.get($text-color, 'primary');
+}
+
+.text-title {
+  font-size: 1.3em;
+  font-weight: bold;
+  line-height: 2em;
+  color: 	map.get($text-color, 'primary');
+}
+
+.text-second {
+  color: map.get($text-color, 'regular');
+  font-size: .8em;
+}
+
+.text-lable {
+  color: map.get($text-color, 'regular');
+  padding: 3px 10px;
+  border: 1px solid map.get($text-color, 'regular');
+  border-radius: 2em;
+  font-size: .8em;
+}
+
+.icon-buttons {
+  a {
+    margin-right: 5px;
+  }
+}
+

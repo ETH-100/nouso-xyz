@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1547.882px" height="81.463px" viewBox="0 0 1547.882 81.463" enable-background="new 0 0 1547.882 81.463"
+	 xml:space="preserve">
+<rect x="-0.07" y="55.057" fill="#F9F9F9" width="18.497" height="18.497"/>
+<rect x="52.943" y="18" fill="#F9F9F9" width="7.287" height="7.286"/>
+<rect x="151.943" fill="#F9F9F9" width="7.287" height="7.286"/>
+<rect y="3" fill="#F9F9F9" width="18.497" height="18.497"/>
+<g opacity="0.75">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="155.374" y="4.364" width="24" height="24"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<defs>
+				<rect id="SVGID_3_" x="155.374" y="4.366" width="24" height="24"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_4_)">
+				<image overflow="visible" width="24" height="24" xlink:href="6B4C8DAB.png"  transform="matrix(1 0 0 1 155.374 4.3662)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="159" y="7" fill="#F9F9F9" width="18.497" height="18.497"/>
+<g opacity="0.75">
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="1499.622" y="24.614" width="75" height="76"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_6_)">
+			<defs>
+				<rect id="SVGID_7_" x="1499.621" y="24.613" width="75" height="76"/>
+			</defs>
+			<clipPath id="SVGID_8_">
+				<use xlink:href="#SVGID_7_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_8_)">
+				<image overflow="visible" width="75" height="76" xlink:href="6B4C8DA9.png"  transform="matrix(1 0 0 1 1499.6211 24.6133)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="1527.274" y="50.76" fill="#F9F9F9" width="20.607" height="22.114"/>
+<rect x="592.756" y="45.874" fill="#F9F9F9" width="20.238" height="20.237"/>
+<rect x="963.756" y="29.874" fill="#F9F9F9" width="20.237" height="20.237"/>
+<rect x="1160.817" y="11.874" fill="#F9F9F9" width="11.418" height="11.418"/>
+</svg>
